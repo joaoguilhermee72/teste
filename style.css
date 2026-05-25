@@ -3,3 +3,14 @@ background-color:#4169E1 ;
 
 
 }
+
+
+.capa{
+ color: #4169E1;   
+ font-size: 20px;
+}
+
+#sitcom {
+display: flex;
+padding-left: 200px;
+}
